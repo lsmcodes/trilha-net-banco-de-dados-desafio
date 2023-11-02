@@ -102,6 +102,8 @@ FROM
 	Atores
 WHERE
 	Genero = 'F'
+ORDER BY
+	PrimeiroNome
 
 -- Consulta 9 imagem
 SELECT
